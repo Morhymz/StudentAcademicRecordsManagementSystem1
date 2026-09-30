@@ -335,7 +335,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1071, 929);
+            this.ClientSize = new System.Drawing.Size(738, 803);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.lnkLogin);
             this.Controls.Add(this.btnCancel);
@@ -366,7 +366,7 @@
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.lblTitle1);
             this.Name = "frmRegistrstion";
-            this.Text = "User Registration";
+            this.Text = "Registration";
             this.ResumeLayout(false);
             this.PerformLayout();
 

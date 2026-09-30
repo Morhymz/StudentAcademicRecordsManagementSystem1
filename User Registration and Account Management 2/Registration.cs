@@ -336,7 +336,7 @@ namespace User_Registration_and_Account_Management_2
             
             DialogResult Choice;
 
-            Choice = MessageBox.Show( 
+            Choice = MessageBox.Show(
                 "Do you want to clear all entered information?",
                 "Clear Form",
                 MessageBoxButtons.YesNo,
